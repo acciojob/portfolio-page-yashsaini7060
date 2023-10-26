@@ -1,2 +1,9 @@
+body{
+	display: flex;
+}
+img{
+	width:300px;
+}
+
 
 /* Your CSS Code here. */
